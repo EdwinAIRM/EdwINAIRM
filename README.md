@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Edwin</a> 👋</h1>
+<h1 align="center">👋😎Hola, soy Edwin bienvenido a mi ppagina😎👋</h1>
 </div>
 <img src="https://imgur.com/JUEVxEe.png">
 
