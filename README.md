@@ -3,7 +3,7 @@
 </div>
 <img src="https://imgur.com/JUEVxEe.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/channel/UCrPPMF6POez6Zkd2wYDpzsA)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@EdwinMaximino)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
@@ -13,7 +13,7 @@
 - 🔍trabaje con javascript,c++ y pseint
 - 💯programador experimentado en paginas web
 - 🔭busco ayudar a las personas a desarrollar sus paginas web
-- 🎥 Te enseño a crear paginas en [Youtube](https://www.youtube.com/channel/UCrPPMF6POez6Zkd2wYDpzsA) (0 subs)
+- 🎥 Te enseño a crear paginas en [Youtube](https://www.youtube.com/@EdwinMaximino) (0 subs)
 <br>
 
 </p>
