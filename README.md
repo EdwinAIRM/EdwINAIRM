@@ -3,7 +3,7 @@
 </div>
 <img src="https://imgur.com/JUEVxEe.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/badge/youtube?logo=youtube)](https://www.youtube.com/@EdwinMaximino)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrPPMF6POez6Zkd2wYDpzsA?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40EdwinMaximino)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/EdwinAIRM)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
