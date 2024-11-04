@@ -4,8 +4,7 @@
 <img src="https://imgur.com/JUEVxEe.png">
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrPPMF6POez6Zkd2wYDpzsA?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40EdwinMaximino)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/EdwinAIRM)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+![GitHub followers](https://img.shields.io/github/followers/EdwinAIRM?logo=github&link=https%3A%2F%2Fgithub.com%2FEdwinAIRM)
 
 ## Sobre mi
 
