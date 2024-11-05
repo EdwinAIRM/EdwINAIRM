@@ -8,11 +8,11 @@
 
 ## Sobre mi
 
-- ⭐experiencia trabajando con paginas web⭐
-- 🔍trabaje con javascript,c++ y pseint
-- 💯programador experimentado en paginas web
-- 🔭busco ayudar a las personas a desarrollar sus paginas web
-- 🎥 Te enseño a crear paginas en [Youtube](https://www.youtube.com/@EdwinMaximino) (0 subs)
+- ⭐Experiencia trabajando con páginas web⭐
+- 🔍Trabaje con JavaScript,c++ y PSeInt
+- 💯Programador experimentado en páginas web
+- 🔭Busco ayudar a las personas a desarrollar sus páginas web
+- 🎥 Te enseño a crear páginas en [Youtube](https://www.youtube.com/@EdwinMaximino) (0 subs)
 <br>
 
 </p>
